@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587184307 source:c:\users\m\desktop\程序实习\自己的\自己的\main.c
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+
